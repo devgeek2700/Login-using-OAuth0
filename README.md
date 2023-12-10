@@ -62,17 +62,21 @@ To enable OAuth0 integration and user information retrieval, follow these steps:
 
 ## Screenshot
 
-## Contact Form
+## Homepage 
 
-![App Screenshot](https://github.com/devgeek2700/Contact-Form-With-Email-using-PHP/blob/master/1.jpg?raw=true)
+![App Screenshot](https://github.com/devgeek2700/Login-using-OAuth0-Reactjs-Vite/blob/master/1.png?raw=true)
 
-## Thank You Note
+## Form page
 
-![App Screenshot](https://github.com/devgeek2700/Contact-Form-With-Email-using-PHP/blob/master/2.png?raw=true)
+![App Screenshot](https://github.com/devgeek2700/Login-using-OAuth0-Reactjs-Vite/blob/master/2.png?raw=true)
 
-## Sent Mail
+## Social Login
 
-![App Screenshot](https://github.com/devgeek2700/Contact-Form-With-Email-using-PHP/blob/master/3.png?raw=true)
+![App Screenshot](https://raw.githubusercontent.com/devgeek2700/Login-using-OAuth0-Reactjs-Vite/master/3.webp)
+
+## Information Display
+
+![App Screenshot](https://github.com/devgeek2700/Login-using-OAuth0-Reactjs-Vite/blob/master/4.png?raw=true)
 
 ## Usage
 
