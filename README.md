@@ -21,7 +21,7 @@ To get started with the project, follow these steps:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/oauth0-user-info.git
+   git clone https://github.com/devgeek2700/Login-using-OAuth0-Reactjs-Vite.git
    ```
 
 2. Set up an OAuth0 application:
